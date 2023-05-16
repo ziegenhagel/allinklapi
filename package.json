@@ -1,0 +1,11 @@
+{
+  "name": "allinklapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominik <dominik.ziegenhagel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^20.2.1"
+  }
+}
